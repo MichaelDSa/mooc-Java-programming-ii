@@ -1,0 +1,20 @@
+package FlightControl.domain;
+
+/**
+ *
+ * @author dsa21
+ */
+
+public class Place {
+
+    private String ID;
+
+    public Place(String ID) {
+        this.ID = ID;
+    }
+
+    @Override
+    public String toString() {
+        return this.ID;
+    }
+}
