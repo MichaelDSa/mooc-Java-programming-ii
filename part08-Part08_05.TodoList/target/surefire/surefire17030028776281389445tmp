@@ -1,0 +1,26 @@
+#surefire
+#Sun Mar 07 09:07:54 EST 2021
+classPathUrl.4=C\:\\Users\\dsa21\\.m2\\repository\\fi\\helsinki\\cs\\tmc\\edu-test-utils\\0.4.2\\edu-test-utils-0.4.2.jar
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\dsa21\\Documents\\NetBeansProjects\\mooc-java-programming-ii\\part08-Part08_05.TodoList\\src\\test\\java
+includes1=**/*Test.java
+includes2=**/*TestCase.java
+runOrder=filesystem
+includes0=**/Test*.java
+reportsDirectory=C\:\\Users\\dsa21\\Documents\\NetBeansProjects\\mooc-java-programming-ii\\part08-Part08_05.TodoList\\target\\surefire-reports
+tc.0=TodoListTest
+surefireClassPathUrl.0=C\:\\Users\\dsa21\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+classPathUrl.0=C\:\\Users\\dsa21\\Documents\\NetBeansProjects\\mooc-java-programming-ii\\part08-Part08_05.TodoList\\target\\test-classes
+classPathUrl.1=C\:\\Users\\dsa21\\Documents\\NetBeansProjects\\mooc-java-programming-ii\\part08-Part08_05.TodoList\\target\\classes
+classPathUrl.2=C\:\\Users\\dsa21\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar
+classPathUrl.3=C\:\\Users\\dsa21\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+testClassesDirectory=C\:\\Users\\dsa21\\Documents\\NetBeansProjects\\mooc-java-programming-ii\\part08-Part08_05.TodoList\\target\\test-classes
+useManifestOnlyJar=true
+runStatisticsFile=C\:\\Users\\dsa21\\Documents\\NetBeansProjects\\mooc-java-programming-ii\\part08-Part08_05.TodoList\\.surefire-FBD5911FD35557DF7D9C1DBC7A7676F927A57C1A
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+failIfNoTests=false
+isTrimStackTrace=true
+surefireClassPathUrl.1=C\:\\Users\\dsa21\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+excludes0=**/*$*
+enableAssertions=true
+childDelegation=false
+useSystemClassLoader=true
