@@ -1,0 +1,23 @@
+
+/**
+ *
+ * @author dsa21
+ */
+public class Book implements Packable {
+    private String author, title;
+    private double weight;
+    
+    public Book(String author, String title, double weight) {
+        this.author = author;
+        this.title = title;
+        this.weight = weight;
+    }
+    
+    @Override
+    public double weight(){
+        return this.weight;
+    }
+    public String toString() {
+        return this.author + ": " + this.title;
+    }
+}
